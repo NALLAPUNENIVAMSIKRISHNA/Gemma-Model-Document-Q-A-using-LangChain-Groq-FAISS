@@ -1,0 +1,1 @@
+# Gemma-Model-Document-Q-A-using-LangChain-Groq-FAISS
